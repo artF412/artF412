@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just another boy.
 
 - 📖 My Skill : <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,py,qt,github,ubuntu,vscode,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,opencv,cpp,qt,git,github,linux,ubuntu,debian,gmail,obsidian,vscode,unreal,blender,apple)](https://skillicons.dev)
 </br>
