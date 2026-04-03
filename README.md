@@ -58,13 +58,13 @@ fun_fact   : "I'm a chill guy who bridges tech and creativity."
 
 **💻 Languages & Frameworks**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,bash&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,opencv,cpp,qt&theme=dark&perline=4)](https://skillicons.dev)
 
 </td><td align="center" width="50%">
 
 **🔧 Tools & Platforms**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,linux,debian,redhat,grafana,postman,vscode,obsidian,gmail&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,linux,ubuntu,debian,vscode,obsidian,gmail&theme=dark&perline=4)](https://skillicons.dev)
 
 </td></tr>
 <tr><td align="center" width="50%">
@@ -77,7 +77,7 @@ fun_fact   : "I'm a chill guy who bridges tech and creativity."
 
 **🖥️ Operating Systems**
 
-[![Skills](https://skillicons.dev/icons?i=apple,windows,linux,arch&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark&perline=4)](https://skillicons.dev)
 
 </td></tr>
 </table>
