@@ -1,14 +1,16 @@
 # ═══════════════════════════════════════════════════════════════
-# 🐍 Generate Snake Contribution Graph
-# Place this file at: .github/workflows/snake.yml
+# Generate Snake Contribution Graph
 # ═══════════════════════════════════════════════════════════════
 
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # ทุกวันตอนเที่ยงคืน UTC
-  workflow_dispatch:       # รันมือได้
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
